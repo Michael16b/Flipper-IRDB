@@ -1,0 +1,68 @@
+Filetype: IR library file
+Version: 1
+#
+name: Power_Off
+type: parsed
+protocol: Midea
+address: B2 4D 00 00
+command: 7B 84 E0 1F 00 00
+#
+name: Cool_17C
+type: parsed
+protocol: Midea
+address: B2 4D 00 00
+command: 7B 84 00 FF 00 FF
+#
+name: Cool_18C
+type: parsed
+protocol: Midea
+address: B2 4D 00 00
+command: 7B 84 00 FF 01 FE
+#
+name: Cool_19C
+type: parsed
+protocol: Midea
+address: B2 4D 00 00
+command: 7B 84 00 FF 02 FD
+#
+name: Cool_20C
+type: parsed
+protocol: Midea
+address: B2 4D 00 00
+command: 7B 84 00 FF 04 FB
+#
+name: Cool_21C
+type: parsed
+protocol: Midea
+address: B2 4D 00 00
+command: 7B 84 00 FF 05 FA
+#
+name: Cool_22C
+type: parsed
+protocol: Midea
+address: B2 4D 00 00
+command: 7B 84 00 FF 08 F7
+#
+name: Cool_23C
+type: parsed
+protocol: Midea
+address: B2 4D 00 00
+command: 7B 84 00 FF 09 F6
+#
+name: Cool_24C
+type: parsed
+protocol: Midea
+address: B2 4D 00 00
+command: 7B 84 00 FF 0C F3
+#
+name: Cool_25C
+type: parsed
+protocol: Midea
+address: B2 4D 00 00
+command: 7B 84 00 FF 0D F2
+#
+name: Cool_26C
+type: parsed
+protocol: Midea
+address: B2 4D 00 00
+command: 7B 84 00 FF 0E F1
